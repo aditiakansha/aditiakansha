@@ -10,9 +10,7 @@ Hi, I am Aditi. I am a learner at heart, and hence I chose tech—ever expanding
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=aditiakansha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=aditiakansha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aditiakansha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
