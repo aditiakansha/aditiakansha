@@ -118,13 +118,6 @@ Hi, I am Aditi. I am a learner at heart, and hence I chose tech—ever expanding
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=aditiakansha&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
 </p>
 
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditiakansha&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</p>
 
 ---
 
