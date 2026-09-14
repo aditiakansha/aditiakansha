@@ -103,20 +103,13 @@ Hi, I am Aditi. I am a learner at heart, and hence I chose tech—ever expanding
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditiakansha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiakansha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-</p>
 
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=aditiakansha&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=aditiakansha&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
-</p>
+
 
 
 ---
