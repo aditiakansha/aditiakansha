@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Aditi 👋</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aditi-akansha">
+  <a href="www.linkedin.com/in/aditi-akansha-383176238">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:your.email@example.com">
